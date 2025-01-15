@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-arun18&label=Profile%20views&color=0e75b6&style=flat" alt="hey-arun18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vd_arun45" target="blank"><img src="https://img.shields.io/twitter/follow/vd_arun45?logo=twitter&style=for-the-badge" alt="vd_arun45" /></a> </p>
+<p align="left"> <a href="https://twitter.com/VD_arun46" target="blank"><img src="https://img.shields.io/twitter/follow/vd_arun45?logo=twitter&style=for-the-badge" alt="vd_arun45" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
