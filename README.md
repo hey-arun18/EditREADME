@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Arun Kumar K</h1>
-<h3 align="center">🎓 B.Tech in AI & Data Science | 🧠 ML & Data Analysis | 💻 Python, Java | 🚀 Solving real-world problems with AI | 🤝 Open to internships & collaborations</h3>
+<h3 align="center">🎓 B.Tech in AI & Data Science | 🧠 HTML, MySQL | 💻Java, Spring Boot | 🚀 Solving real-world problems with AI | 🤝 Open to internships & collaborations</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hey-arun18&label=Profile%20views&color=0e75b6&style=flat" alt="hey-arun18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/VD_arun46" target="blank"><img src="https://img.shields.io/twitter/follow/vd_arun45?logo=twitter&style=for-the-badge" alt="vd_arun45" /></a> </p>
+<p align="left"> <a href="https://twitter.com/VD_arun46" target="blank"><img src="https://img.shields.io/twitter/follow/VD_arun46?logo=twitter&style=for-the-badge" alt="VD_arun46" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
